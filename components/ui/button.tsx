@@ -1,0 +1,1 @@
+export const Button = (props: any) => <button {...props} className='p-2 rounded-xl bg-black text-white' />;
